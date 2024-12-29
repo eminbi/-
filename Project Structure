@@ -1,0 +1,30 @@
+research-management-system/
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── assets/
+│   └── src/
+│       ├── components/
+│       │   ├── List/
+│       │   ├── Detail/
+│       │   ├── Presentation/
+│       │   └── Common/
+│       ├── services/
+│       │   ├── googleAPI/
+│       │   ├── openAI/
+│       │   └── claude/
+│       ├── utils/
+│       └── App.js
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   └── server.js
+├── google-apps-script/
+│   ├── Code.gs
+│   └── appsscript.json
+└── docs/
+    ├── API.md
+    └── SETUP.md
+```
